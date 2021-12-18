@@ -1,4 +1,4 @@
-var haslo="";
+var haslo="Ptaki latają kluczem";
 haslo = haslo.toUpperCase();
 
 var dlugosc=haslo.length;
